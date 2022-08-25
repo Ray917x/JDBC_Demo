@@ -22,6 +22,7 @@ public class Born {
 		if (conn != null) {
 			conn.close();
 			System.out.println("關閉連線");
+			System.out.println("關閉連線");
 		}
 	}
 
